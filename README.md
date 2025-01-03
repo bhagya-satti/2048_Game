@@ -4,6 +4,8 @@ A Python implementation of the popular 2048 game using Tkinter for the graphical
 The game allows players to move tiles on a 4x4 grid and combine them to reach the 2048 tile.
 
 
+
+
 Features
 4x4 Grid: Play the game on a 4x4 grid of tiles.
 
@@ -17,7 +19,12 @@ Score Tracking: Your current score is tracked, and the highest score is displaye
 
 Game Over & Win: Notifications appear when you win or the game ends, with an option to restart.
 
+
+
 Installation
+
 Requirements
+
 Python 3.x
+
 Tkinter (usually comes pre-installed with Python)
